@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flow xmlns="http://www.springframework.org/schema/webflow"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.springframework.org/schema/webflow
+            http://www.springframework.org/schema/webflow/spring-webflow.xsd"
+      start-state="createUserForm">
+
+    <var name="user" class="ru.jswap.entities.User"/>
+
+    <view-state model="user" view="createUser" id="createUserForm">
+        <transition to="createUserAction" on="submit"/>
+        <transition to="end" on="cancel"/>
+    </view-state>
+
+    <action-state id="createUserAction">
+        <evaluate expression="userService.createUser(user)"/>
+        <transition to="end"/>
+    </action-state>
+
+    <end-state id="end"/>
+</flow>

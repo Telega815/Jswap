@@ -1,0 +1,17 @@
+package ru.jswap.dao.intefaces;
+
+import ru.jswap.entities.FileData;
+import ru.jswap.entities.Post;
+
+import java.util.List;
+
+public interface FilesDAO {
+
+    List<FileData> getFiles();
+    FileData getFile(String filename);
+    List<FileData> getFiles(Post post);
+    List<FileData> getFiles(Post[] posts);
+    void saveFile(FileData fileData);
+    void deleteFile(FileData fileData);
+
+}

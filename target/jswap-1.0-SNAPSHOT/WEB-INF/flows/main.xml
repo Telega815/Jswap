@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flow xmlns="http://www.springframework.org/schema/webflow"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.springframework.org/schema/webflow
+            http://www.springframework.org/schema/webflow/spring-webflow.xsd"
+      start-state="main">
+
+    <var name="user" class="ru.jswap.objects.User"/>
+
+    <view-state id="main" view="main" model="user">
+        <transition on="submit" to="actionCheckUser"/>
+    </view-state>
+
+    <action-state id="actionCheckUser">
+        <evaluate expression="userService.checkUser(user)"/>
+
+        <transition on="success" to="page"/>
+        <transition on="failed" to="main"/>
+    </action-state>
+
+    <view-state id="page" view="page"/>
+</flow>
