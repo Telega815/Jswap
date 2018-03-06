@@ -22,6 +22,7 @@ import java.io.IOException;
 import java.util.List;
 
 @Controller
+@SessionAttributes(value = "user")
 public class MainController {
 
     @Autowired
@@ -51,7 +52,6 @@ public class MainController {
             ModelAndView modelAndView = new ModelAndView();
             modelAndView.setViewName("page");
             modelAndView.addObject("user", user);
-
             return modelAndView;
         } catch (Exception e) {
 //            e.printStackTrace();

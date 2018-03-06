@@ -7,6 +7,7 @@
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ taglib uri="http://www.springframework.org/tags/form" prefix="form"%>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <html>
 <head>
     <title>UserPage</title>
@@ -19,12 +20,12 @@
         <%--<input type="submit" value="Upload">--%>
     <%--</form>--%>
 
-    <form:form method="post" enctype="multipart/form-data" action="${user.username}/upload" modelAttribute="uploadedFile">
+    <form:form method="post" enctype="multipart/form-data" action="${user.username}/upload" modelAttribute="uploadedFile" >
 
         <table>
             <tr>
                 <td>Upload File:</td>
-                <td><input type="file" name="files" /></td>
+                <td><input type="file" name="files" multiple/></td>
                 <td style="color: red; font-style: italic;">
                     <form:errors path="files"/>
                 </td>

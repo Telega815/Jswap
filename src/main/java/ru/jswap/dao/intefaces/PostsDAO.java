@@ -9,6 +9,6 @@ public interface PostsDAO {
 
     List<Post> getPosts();
     List<Post> getPosts(User user);
-    void savePost(Post post);
+    int savePost(Post post);
     void deletePost(Post post);
 }

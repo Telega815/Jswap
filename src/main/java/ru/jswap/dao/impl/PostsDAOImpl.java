@@ -37,8 +37,8 @@ public class PostsDAOImpl implements PostsDAO {
 
     @Transactional
     @Override
-    public void savePost(Post post) {
-        sessionFactory.getCurrentSession().save(post);
+    public int savePost(Post post) {
+        return (int)sessionFactory.getCurrentSession().save(post);
     }
 
     @Transactional

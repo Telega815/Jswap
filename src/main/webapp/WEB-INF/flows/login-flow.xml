@@ -17,13 +17,13 @@
     </subflow-state>
 
     <action-state id="actionCheckUser">
-        <evaluate expression="userService.checkUser(user.username)"/>
+        <evaluate expression="userService.checkUser(user)"/>
 
         <transition on="success" to="toPage"/>
         <transition on="failed" to="main"/>
     </action-state>
 
-    <view-state id="toPage" view="externalRedirect:#{user.username}"/>
+    <view-state id="toPage" view="externalRedirect:#{user.username}" model="user"/>
 
     <!--<view-state id="page" view="page"/>-->
 </flow>

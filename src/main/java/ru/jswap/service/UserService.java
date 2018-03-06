@@ -14,9 +14,9 @@ public class UserService {
     private UserDAO userDAO;
 
 
-    public String checkUser(String username) {
+    public String checkUser(User user) {
         try {
-            userDAO.getUser(username);
+            userDAO.getUser(user.getUsername());
             return "success";
         } catch (Exception e) {
 //            e.printStackTrace();

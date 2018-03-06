@@ -6,7 +6,75 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf3a7c71-c26c-4e00-9c45-f2364f5e7466" name="Default" comment="" />
+    <list default="true" id="cf3a7c71-c26c-4e00-9c45-f2364f5e7466" name="Default" comment="downloading done">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tmpFiles/frank/2018-03-06_19-05-54_1/[NNM-Club.name]_Mass Effect 2 [Other s].torrent" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tmpFiles/frank/2018-03-06_19-05-54_1/[NNM-Club.ru]_Titanik[Rasshirennaya_versiya]-Titanic[ExtendedCut](1997).torrent" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tmpFiles/frank/2018-03-06_19-06-34_2/g2_map_005.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tmpFiles/frank/2018-03-06_19-06-34_2/perm_m.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tmpFiles/frank/2018-03-06_19-06-48_3/LibraryFlow18.zip" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/tmpFiles/frank/2018-03-06_19-06-48_3/LibraryFlow20.zip" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/jswap_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/jswap_war_exploded.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/jswap.iml" afterPath="$PROJECT_DIR$/jswap.iml" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jswap_exploded/WEB-INF/classes/ru/jswap/controllers/MainController.class" afterPath="$PROJECT_DIR$/out/artifacts/jswap_exploded/WEB-INF/classes/ru/jswap/controllers/MainController.class" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jswap_exploded/WEB-INF/classes/ru/jswap/controllers/UploadingController.class" afterPath="$PROJECT_DIR$/out/artifacts/jswap_exploded/WEB-INF/classes/ru/jswap/controllers/UploadingController.class" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jswap_exploded/WEB-INF/classes/ru/jswap/controllers/ViewFilesController.class" afterPath="$PROJECT_DIR$/out/artifacts/jswap_exploded/WEB-INF/classes/ru/jswap/controllers/ViewFilesController.class" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jswap_exploded/WEB-INF/classes/ru/jswap/dao/impl/FilesDAOImpl.class" afterPath="$PROJECT_DIR$/out/artifacts/jswap_exploded/WEB-INF/classes/ru/jswap/dao/impl/FilesDAOImpl.class" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jswap_exploded/WEB-INF/classes/ru/jswap/dao/impl/PostsDAOImpl.class" afterPath="$PROJECT_DIR$/out/artifacts/jswap_exploded/WEB-INF/classes/ru/jswap/dao/impl/PostsDAOImpl.class" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jswap_exploded/WEB-INF/classes/ru/jswap/dao/intefaces/FilesDAO.class" afterPath="$PROJECT_DIR$/out/artifacts/jswap_exploded/WEB-INF/classes/ru/jswap/dao/intefaces/FilesDAO.class" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jswap_exploded/WEB-INF/classes/ru/jswap/dao/intefaces/PostsDAO.class" afterPath="$PROJECT_DIR$/out/artifacts/jswap_exploded/WEB-INF/classes/ru/jswap/dao/intefaces/PostsDAO.class" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jswap_exploded/WEB-INF/classes/ru/jswap/service/FileService.class" afterPath="$PROJECT_DIR$/out/artifacts/jswap_exploded/WEB-INF/classes/ru/jswap/service/FileService.class" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jswap_exploded/WEB-INF/classes/ru/jswap/service/UserService.class" afterPath="$PROJECT_DIR$/out/artifacts/jswap_exploded/WEB-INF/classes/ru/jswap/service/UserService.class" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jswap_exploded/WEB-INF/flows/login-flow.xml" afterPath="$PROJECT_DIR$/out/artifacts/jswap_exploded/WEB-INF/flows/login-flow.xml" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/jswap_exploded/WEB-INF/views/page.jsp" afterPath="$PROJECT_DIR$/out/artifacts/jswap_exploded/WEB-INF/views/page.jsp" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/jswap/controllers/MainController.java" afterPath="$PROJECT_DIR$/src/main/java/ru/jswap/controllers/MainController.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/jswap/controllers/UploadingController.java" afterPath="$PROJECT_DIR$/src/main/java/ru/jswap/controllers/UploadingController.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/jswap/controllers/ViewFilesController.java" afterPath="$PROJECT_DIR$/src/main/java/ru/jswap/controllers/ViewFilesController.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/jswap/dao/impl/FilesDAOImpl.java" afterPath="$PROJECT_DIR$/src/main/java/ru/jswap/dao/impl/FilesDAOImpl.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/jswap/dao/impl/PostsDAOImpl.java" afterPath="$PROJECT_DIR$/src/main/java/ru/jswap/dao/impl/PostsDAOImpl.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/jswap/dao/intefaces/FilesDAO.java" afterPath="$PROJECT_DIR$/src/main/java/ru/jswap/dao/intefaces/FilesDAO.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/jswap/dao/intefaces/PostsDAO.java" afterPath="$PROJECT_DIR$/src/main/java/ru/jswap/dao/intefaces/PostsDAO.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/jswap/service/FileService.java" afterPath="$PROJECT_DIR$/src/main/java/ru/jswap/service/FileService.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/jswap/service/UserService.java" afterPath="$PROJECT_DIR$/src/main/java/ru/jswap/service/UserService.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/login-flow.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/login-flow.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/page.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/page.jsp" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/jswap/controllers/MainController.class" afterPath="$PROJECT_DIR$/target/classes/ru/jswap/controllers/MainController.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/jswap/controllers/UploadingController.class" afterPath="$PROJECT_DIR$/target/classes/ru/jswap/controllers/UploadingController.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/jswap/controllers/ViewFilesController.class" afterPath="$PROJECT_DIR$/target/classes/ru/jswap/controllers/ViewFilesController.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/jswap/dao/impl/FilesDAOImpl.class" afterPath="$PROJECT_DIR$/target/classes/ru/jswap/dao/impl/FilesDAOImpl.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/jswap/dao/impl/PostsDAOImpl.class" afterPath="$PROJECT_DIR$/target/classes/ru/jswap/dao/impl/PostsDAOImpl.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/jswap/dao/intefaces/FilesDAO.class" afterPath="$PROJECT_DIR$/target/classes/ru/jswap/dao/intefaces/FilesDAO.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/jswap/dao/intefaces/PostsDAO.class" afterPath="$PROJECT_DIR$/target/classes/ru/jswap/dao/intefaces/PostsDAO.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/jswap/service/FileService.class" afterPath="$PROJECT_DIR$/target/classes/ru/jswap/service/FileService.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/jswap/service/UserService.class" afterPath="$PROJECT_DIR$/target/classes/ru/jswap/service/UserService.class" />
+      <change beforePath="$PROJECT_DIR$/tmpFiles/frank/10_2018-03-03_13-48-44/g2_map_005.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmpFiles/frank/11_2018-03-03_13-52-20/g2_map_005.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmpFiles/frank/12_2018-03-03_14-00-35/g2_map_005.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmpFiles/frank/13_2018-03-03_14-02-21/g2_map_005.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmpFiles/frank/14_2018-03-03_14-07-30/g2_map_005.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmpFiles/frank/15_2018-03-03_14-07-52/[NNM-Club.name]_Mass Effect 2 [Other s].torrent" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmpFiles/frank/1_2018-03-01_19-34-09/[NNM-Club.ru]_Titanik[Rasshirennaya_versiya]-Titanic[ExtendedCut](1997).torrent" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmpFiles/frank/2_2018-03-02_12-11-59/g2_map_005.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmpFiles/frank/3_2018-03-03_13-32-58/g2_map_005.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmpFiles/frank/4_2018-03-03_13-35-28/g2_map_005.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmpFiles/frank/5_2018-03-03_13-39-45/g2_map_005.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmpFiles/frank/6_2018-03-03_13-41-46/g2_map_005.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmpFiles/frank/7_2018-03-03_13-42-46/g2_map_005.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmpFiles/frank/8_2018-03-03_13-43-47/g2_map_005.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmpFiles/frank/9_2018-03-03_13-47-22/g2_map_005.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmpFiles/jane/1_2018-02-28_18-32-18/LibraryFlow18.zip" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmpFiles/jane/1_2018-02-28_18-32-18/[NNM-Club.name]_Mass Effect 2 [Other s].torrent" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmpFiles/jane/2_2018-02-28_18-34-52/LibraryFlow20.zip" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmpFiles/jane/2_2018-02-28_18-34-52/SpringMVC_10.zip" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmpFiles/jane/2_2018-02-28_18-34-52/SpringWebflow_6.zip" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmpFiles/pidr/1_2018-02-28_20-07-01/LibraryFlow18.zip" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmpFiles/pidr/1_2018-02-28_20-07-01/LibraryFlow20.zip" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmpFiles/pidr/1_2018-02-28_20-07-01/[NNM-Club.name]_Mass Effect 2 [Other s].torrent" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmpFiles/pidr/2_2018-03-03_13-49-48/g2_map_005.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/tmpFiles/pidr/3_2018-03-03_14-01-45/g2_map_005.jpg" afterPath="" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,11 +132,9 @@
       <file leaf-file-name="MainController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ru/jswap/controllers/MainController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-264">
-              <caret line="26" column="4" lean-forward="true" selection-start-line="26" selection-start-column="4" selection-end-line="39" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="207">
+              <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -76,8 +142,8 @@
       <file leaf-file-name="UploadingController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ru/jswap/controllers/UploadingController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="37" column="153" lean-forward="false" selection-start-line="37" selection-start-column="112" selection-end-line="37" selection-end-column="153" />
+            <state relative-caret-position="380">
+              <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -85,28 +151,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FileValidator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ru/jswap/validators/FileValidator.java">
+      <file leaf-file-name="FileService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru/jswap/service/FileService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="79">
-              <caret line="8" column="49" lean-forward="false" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+            <state relative-caret-position="88">
+              <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#333#334#0" expanded="true" />
-                <element signature="e#361#362#0" expanded="true" />
+                <element signature="e#2586#2587#0" expanded="true" />
+                <element signature="e#2643#2644#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ViewFilesController.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="posts" pinned="false" current-in-tab="false">
+        <entry file="das://table:/7aab5560/4498d12a-ab72-4c61-80bb-ccf9b0dc975e/jswapdb.public.posts">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="files" pinned="false" current-in-tab="false">
+        <entry file="das://table:/7aab5560/4498d12a-ab72-4c61-80bb-ccf9b0dc975e/jswapdb.public.files">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ViewFilesController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ru/jswap/controllers/ViewFilesController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="53" column="13" lean-forward="true" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="326">
+              <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -114,8 +195,8 @@
       <file leaf-file-name="PostsDAO.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ru/jswap/dao/intefaces/PostsDAO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            <state relative-caret-position="187">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -124,39 +205,12 @@
       <file leaf-file-name="PostsDAOImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ru/jswap/dao/impl/PostsDAOImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="34" column="21" lean-forward="false" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/main.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="29" column="46" lean-forward="true" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="viewfiles.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/viewfiles.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fileField.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/fileField.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="13" column="21" lean-forward="false" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-              <folding />
+            <state relative-caret-position="156">
+              <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1155#1156#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -164,8 +218,18 @@
       <file leaf-file-name="page.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/page.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="35" column="17" lean-forward="true" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+            <state relative-caret-position="455">
+              <caret line="39" column="74" lean-forward="true" selection-start-line="39" selection-start-column="74" selection-end-line="39" selection-end-column="74" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FilesDAOImpl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ru/jswap/dao/impl/FilesDAOImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="40" column="119" lean-forward="false" selection-start-line="40" selection-start-column="119" selection-end-line="40" selection-end-column="119" />
               <folding />
             </state>
           </provider>
@@ -194,6 +258,9 @@
       <replace>userid</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -212,10 +279,8 @@
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/4498d12a-ab72-4c61-80bb-ccf9b0dc975e/console.sql" />
         <option value="$PROJECT_DIR$/src/main/java/ru/jswap/objects/UserService.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/page404error.jsp" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/config/spring/dispatcher-servlet.xml" />
         <option value="$PROJECT_DIR$/src/test/java/ru/jswap/dao/impl/FilesDAOImplTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ru/jswap/dao/intefaces/PostsDAO.java" />
         <option value="$PROJECT_DIR$/src/test/java/ru/jswap/dao/impl/UserDAOImplTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/jswap/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/jswap/UserService.java" />
@@ -224,35 +289,37 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/config/spring/webflow.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/createUser.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/createUser-flow.xml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/login-flow.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/ru.jswap.objects/User.hbm.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/ru/jswap/service/UserService.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/jswap/service/FileServise.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/jswap/dao/intefaces/UserDAO.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/jswap/dao/impl/UserDAOImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/jswap/objects/User.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ru/jswap/dao/intefaces/FilesDAO.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ru/jswap/dao/impl/FilesDAOImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/jswap/objects/UserData.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/jswap/objects/ProxyObjects/PostData.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/jswap/objects/ProxyObjects/UserData.java" />
         <option value="$PROJECT_DIR$/src/main/resources/ru.jswap.objects/Post.hbm.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/ru/jswap/dao/impl/PostsDAOImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/jswap/objects/Post.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/jswap/objects/FileData.java" />
         <option value="$PROJECT_DIR$/src/main/resources/ru.jswap.objects/FileData.hbm.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/ru/jswap/service/FileService.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/jswap/objects/UploadedFile.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/fileuploaded.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/ru/jswap/validators/FileValidator.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/main.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/ru/jswap/controllers/UploadingController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ru/jswap/controllers/MainController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/postbox.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/fileField.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/viewfiles.jsp" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/page.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/main.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/login-flow.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/jswap/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/jswap/controllers/MainController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/jswap/dao/impl/FilesDAOImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/jswap/dao/intefaces/FilesDAO.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/jswap/controllers/UploadingController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/jswap/dao/intefaces/PostsDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/jswap/dao/impl/PostsDAOImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/jswap/service/FileService.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/jswap/controllers/ViewFilesController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/page.jsp" />
       </list>
     </option>
   </component>
@@ -298,10 +365,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="x" value="-233" />
+    <option name="y" value="-20" />
+    <option name="width" value="1818" />
+    <option name="height" value="912" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -319,9 +386,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -515,13 +579,16 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="C:/tools/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.136537" />
@@ -900,7 +967,8 @@
       <workItem from="1519920586373" duration="333000" />
       <workItem from="1519921815979" duration="1530000" />
       <workItem from="1519981318056" duration="6049000" />
-      <workItem from="1520071316668" duration="9960000" />
+      <workItem from="1520071316668" duration="10603000" />
+      <workItem from="1520326997665" duration="18538000" />
     </task>
     <servers />
   </component>
@@ -937,10 +1005,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131829000" />
+    <option name="totallyTimeSpent" value="151010000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-8" y="-8" width="1552" height="840" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42189282" sideWeight="0.5042965" order="7" side_tool="true" content_ui="tabs" />
@@ -948,13 +1016,13 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296328" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16809882" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15683647" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39680728" sideWeight="0.49785176" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3963068" sideWeight="0.49785176" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.327252" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3252841" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -964,7 +1032,7 @@
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27345845" sideWeight="0.30660376" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27765843" sideWeight="0.6933962" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2124665" sideWeight="0.6933962" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1020,41 +1088,27 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="downloading done" />
+    <option name="LAST_COMMIT_MESSAGE" value="downloading done" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ru/jswap/validators/FileValidator.java</url>
-          <line>17</line>
-          <properties />
-          <option name="timeStamp" value="82" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ru/jswap/validators/FileValidator.java</url>
-          <line>18</line>
-          <properties />
-          <option name="timeStamp" value="83" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ru/jswap/controllers/ViewFilesController.java</url>
-          <line>40</line>
-          <properties />
-          <option name="timeStamp" value="84" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/ru/jswap/controllers/ViewFilesController.java</url>
           <line>57</line>
           <properties />
-          <option name="timeStamp" value="85" />
+          <option name="timeStamp" value="98" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ru/jswap/controllers/ViewFilesController.java</url>
-          <line>43</line>
+          <url>file://$PROJECT_DIR$/src/main/java/ru/jswap/dao/impl/PostsDAOImpl.java</url>
+          <line>40</line>
           <properties />
-          <option name="timeStamp" value="86" />
+          <option name="timeStamp" value="102" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="87" />
+      <option name="time" value="105" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1067,14 +1121,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/glassfish-web.xml">
+      <provider editor-type-id="com.intellij.javaee.oss.glassfish.editor.GlassfishWebRootProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="55" lean-forward="false" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="com.intellij.javaee.oss.glassfish.editor.GlassfishWebRootProvider">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
@@ -1119,34 +1173,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/jswap/dao/impl/UserDAOImplTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/config/spring/webflow.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="17" column="61" lean-forward="true" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/jswap/interceptoors/CheckUrlInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="66" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="66" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/createUser-flow.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="14" column="40" lean-forward="false" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/login-flow.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="40" lean-forward="false" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
           <folding />
         </state>
       </provider>
@@ -1185,50 +1215,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/jswap/entities/Post.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="48" column="5" lean-forward="false" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
-          <folding>
-            <element signature="e#2397#2398#0" expanded="false" />
-            <element signature="e#2424#2425#0" expanded="false" />
-            <element signature="e#2462#2463#0" expanded="false" />
-            <element signature="e#2494#2495#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/7aab5560/4498d12a-ab72-4c61-80bb-ccf9b0dc975e/jswapdb.public.posts">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/jswap/dao/intefaces/FilesDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="42" lean-forward="false" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/jswap/dao/impl/UserDAOImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="62" column="55" lean-forward="false" selection-start-line="62" selection-start-column="55" selection-end-line="62" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="126" column="8" lean-forward="true" selection-start-line="126" selection-start-column="8" selection-end-line="136" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/jswap/entities/FileData.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1250,72 +1236,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/config/spring/dispatcher-servlet.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1449">
-          <caret line="69" column="4" lean-forward="false" selection-start-line="69" selection-start-column="4" selection-end-line="69" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/jswap/service/FileService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="51" column="55" lean-forward="false" selection-start-line="51" selection-start-column="55" selection-end-line="51" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/jswap/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="28" column="8" lean-forward="false" selection-start-line="28" selection-start-column="8" selection-end-line="29" selection-end-column="76" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/jswap/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/jswap/objects/UploadedFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#248#249#0" expanded="false" />
-            <element signature="e#276#277#0" expanded="false" />
-            <element signature="e#327#328#0" expanded="false" />
-            <element signature="e#361#362#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/jswap/dao/impl/FilesDAOImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="52" column="5" lean-forward="false" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/entities/Post.hbm.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="12" column="51" lean-forward="false" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/7aab5560/4498d12a-ab72-4c61-80bb-ccf9b0dc975e/jswapdb.public.users">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
@@ -1331,16 +1256,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="15" selection-end-column="10" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/7aab5560/4498d12a-ab72-4c61-80bb-ccf9b0dc975e/jswapdb.public.files">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1354,7 +1270,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/fileField.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
+        <state relative-caret-position="221">
           <caret line="13" column="21" lean-forward="false" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
           <folding />
         </state>
@@ -1362,83 +1278,206 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/main.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="29" column="46" lean-forward="true" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="46" />
+        <state relative-caret-position="85">
+          <caret line="17" column="68" lean-forward="false" selection-start-line="17" selection-start-column="68" selection-end-line="17" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/jswap/interceptoors/CheckUrlInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="66" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/jswap/objects/UploadedFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" column="16" lean-forward="false" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/config/spring/webflow.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="61" lean-forward="false" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/config/spring/dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="69" column="4" lean-forward="false" selection-start-line="69" selection-start-column="4" selection-end-line="69" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/flows/login-flow.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="25" column="81" lean-forward="false" selection-start-line="25" selection-start-column="81" selection-end-line="25" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/jswap/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/jswap/validators/FileValidator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="8" column="49" lean-forward="false" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="187">
+          <caret line="16" column="56" lean-forward="true" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/jswap/dao/impl/UserDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/viewfiles.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        <state relative-caret-position="136">
+          <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/page.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/jswap/entities/Post.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="35" column="17" lean-forward="true" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+        <state relative-caret-position="493">
+          <caret line="48" column="5" lean-forward="false" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/jswap/dao/intefaces/PostsDAO.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        <state relative-caret-position="241">
+          <caret line="142" column="0" lean-forward="true" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/jswap/dao/intefaces/FilesDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="45" lean-forward="false" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/entities/Post.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="51" lean-forward="false" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/jswap/controllers/MainController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-264">
-          <caret line="26" column="4" lean-forward="true" selection-start-line="26" selection-start-column="4" selection-end-line="39" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="207">
+          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/7aab5560/4498d12a-ab72-4c61-80bb-ccf9b0dc975e/jswapdb.public.users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/jswap/dao/intefaces/PostsDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/7aab5560/4498d12a-ab72-4c61-80bb-ccf9b0dc975e/jswapdb.public.files">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/7aab5560/4498d12a-ab72-4c61-80bb-ccf9b0dc975e/jswapdb.public.posts">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/jswap/dao/impl/PostsDAOImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="34" column="21" lean-forward="false" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ru/jswap/controllers/UploadingController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="37" column="153" lean-forward="false" selection-start-line="37" selection-start-column="112" selection-end-line="37" selection-end-column="153" />
+        <state relative-caret-position="156">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1155#1156#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/jswap/controllers/ViewFilesController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="53" column="13" lean-forward="true" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
+        <state relative-caret-position="326">
+          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/jswap/service/FileService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+          <folding>
+            <element signature="e#2586#2587#0" expanded="true" />
+            <element signature="e#2643#2644#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/jswap/controllers/UploadingController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/page.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="39" column="74" lean-forward="true" selection-start-line="39" selection-start-column="74" selection-end-line="39" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/jswap/dao/impl/FilesDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="40" column="119" lean-forward="false" selection-start-line="40" selection-start-column="119" selection-end-line="40" selection-end-column="119" />
+          <folding />
         </state>
       </provider>
     </entry>

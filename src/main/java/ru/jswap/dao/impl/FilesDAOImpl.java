@@ -31,20 +31,28 @@ public class FilesDAOImpl implements FilesDAO {
 
     @Transactional
     @Override
-    public FileData getFile(String filename) {
-        return (FileData) sessionFactory.getCurrentSession().createQuery("from FileData where filename = :filename").setString("filename", filename).list().get(0);
+    public FileData getFile(String filename, Post post) {
+        return (FileData) sessionFactory.getCurrentSession().createQuery("from FileData where filename = :filename and post = :post").setString("filename", filename).setParameter("post", post).list().get(0);
+    }
+
+    @Transactional
+    @Override
+    public FileData getFile(String filename, Integer postid) {
+        return (FileData) sessionFactory.getCurrentSession().createQuery("from FileData where filename = :filename and postid = :postid").setString("filename", filename).setInteger("postid", postid).list().get(0);
     }
 
     @Transactional
     @Override
     public List<FileData> getFiles(Post post) {
         files = sessionFactory.getCurrentSession()
-                .createQuery("from FileData where postid = :postid").setInteger("postid", post.getPostPk()).list();
+                .createQuery("from FileData where post = :post").setParameter("post", post).list();
         return files;
     }
 
+
     @Override
     public List<FileData> getFiles(Post[] posts) {
+        //TODO: Это говнище переделать!!!
         List<FileData> allFiles = new LinkedList<>();
         for (Post post:posts) {
             allFiles.addAll(getFiles(post));

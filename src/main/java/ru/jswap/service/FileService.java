@@ -35,12 +35,13 @@ public class FileService {
 
         Long timeMillis = System.currentTimeMillis();
         Post post = new Post(user, new Date(timeMillis), new Time(timeMillis));
-        String dirName = user.getPostquantity() +"_"+ post.getDate().toString() +"_"+ post.getTime().toString().replace(':', '-');
-        File dir = new File("C:/Projects/jswap/tmpFiles" + File.separator + user.getUsername() + File.separator + dirName);
+        post.setPostPk(postsDAO.savePost(post));
+        File dir = new File(this.getPostFolder(post));
         if(!dir.exists()){
             dir.mkdirs();
         }
-        postsDAO.savePost(post);
+
+
         for (MultipartFile multipartFile: multipartFiles) {
             writeMultipartFile(multipartFile, dir, post);
         }
@@ -58,5 +59,23 @@ public class FileService {
         outputStream.flush();
         outputStream.close();
         filesDAO.saveFile(fileData);
+    }
+
+
+
+    private String getUserFolder(User user){
+        return "C:/Projects/jswap/tmpFiles" + File.separator + user.getUsername();
+    }
+
+    private String getPostFolder(Post post){
+        return getUserFolder(post.getUser()) + File.separator + post.getDate().toString() +"_"+ post.getTime().toString().replace(':', '-')+ "_" + post.getPostPk();
+    }
+
+    public String getFilePath(FileData fileData){
+        return this.getPostFolder(fileData.getPost()) + File.separator + fileData.getFilename();
+    }
+
+    public FileData getFile(String filename, int postid){
+        return filesDAO.getFile(filename, postid);
     }
 }
